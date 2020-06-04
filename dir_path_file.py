@@ -14,7 +14,7 @@ import glob
 #* -- Find the number of files in each directory                             #
 #* -- List the file type in each directory                                   #
 #* -- Scan Directory paths using recursion 				   							                    #
-#*                         						      
+#*                         						                                            #
 #*                                                                           #
 #*****************************************************************************
 
