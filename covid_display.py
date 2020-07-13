@@ -6,7 +6,7 @@ import sys
 
 ###########################################################################################################
 #(Program):                                                                                               #
-#  A program that parses live data of confimred cases and deaths of a state in the U.S and displays it on #
+#  A program that parses live data of confirmed cases and deaths of a state in the U.S and displays it on #
 #  16x2 LCD screen with scrolling text, using python libraries and github                                 #
 #                                                                                                         #
 # - First clone covid_19 live data type 'git clone https://github.com/nytimes/covid-19-data' then         #
