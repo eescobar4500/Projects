@@ -11,7 +11,7 @@ import sys
 #                                                                                                         #
 # - First clone covid_19 live data type 'git clone https://github.com/nytimes/covid-19-data' then         #
 #   change directory to live and insert this script there                                                 #
-                                                                                                          #
+#                                                                                                         #
 # - Run Program type in terminal 'python3 covid_display.py'                                               #
 # - Type 'git pull origin master' to update clone repository for updated live covid-19 data               #
 #                                                                                                         #
